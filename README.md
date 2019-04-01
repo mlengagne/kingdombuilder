@@ -6,7 +6,6 @@ Kingdom Builder est un jeu de plateau créé par Donald X. Vaccarino, un auteur 
 Chaque joueur possède au départ 40 maisons. Dès qu’un joueur n’a plus de maison à poser, la partie se termine. A la fin de la partie, les points sont comptabilisés selon 3 cartes objectifs choisis aléatoirement en début de partie. Le joueur ayant obtenu le plus haut score gagne la partie..
 
 # Règles
-plateau jeu
 Kingdom Builder est un jeu de plateau où doivent s’affronter deux à quatre joueurs. Il s’agit d’un plateau représentant une carte géographique composé d’éléments tels que les canyons, de la forêt, du désert, etc. Le plateau étant construit à partir de quatre quadrants (il y en a 8 au total) que l’on dispose comme on le souhaite, à chaque nouvelle partie une nouvelle carte se dessine. Les joueurs doivent ensuite poser tour à tour des maisons sur les terrains du plateau.
 
 # Détails techniques
